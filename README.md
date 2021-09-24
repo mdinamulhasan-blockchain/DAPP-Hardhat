@@ -1,3 +1,6 @@
+#CREDIT : HARDHAT Tutorials
+https://hardhat.org/tutorial/hackathon-boilerplate-project.html
+
 # Hardhat Hackathon Boilerplate
 
 This repository contains a sample project that you can use as the starting point
